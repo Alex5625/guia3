@@ -105,7 +105,7 @@ def crea_lista_sintomas():
 
 
 # TAREA PA LA CASA HACER EL MATCH DE COMPARAR LOS SINTOMAS DEL PACIENTE CON LOS DE LA ENFERMEDAD
-
+# acordarse de estooo
 
 
 
