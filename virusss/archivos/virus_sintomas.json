@@ -1,0 +1,82 @@
+{
+  "virus_sintomas": [
+    {
+      "virus": "Influenza A",
+      "sintomas": [
+        "Fiebre",
+        "Tos seca",
+        "Dolor de garganta",
+        "Fatiga",
+        "Dolor de cabeza",
+        "Dolores musculares",
+        "Escalofríos",
+        "Congestión nasal"
+      ]
+    },
+    {
+      "virus": "Influenza B",
+      "sintomas": [
+        "Fiebre",
+        "Tos seca",
+        "Dolor de garganta",
+        "Fatiga",
+        "Dolor de cabeza",
+        "Dolores musculares",
+        "Escalofríos",
+        "Congestión nasal"
+      ]
+    },
+    {
+      "virus": "Rinovirus (resfriado común)",
+      "sintomas": [
+        "Congestión nasal",
+        "Estornudos",
+        "Dolor de garganta",
+        "Tos",
+        "Fatiga",
+        "Dolor de cabeza",
+        "Dolor de cuerpo",
+        "Pérdida del sentido del olfato",
+        "Pérdida del sentido del gusto"
+      ]
+    },
+    {
+      "virus": "Virus respiratorio sincitial (VRS)",
+      "sintomas": [
+        "Congestión nasal",
+        "Tos",
+        "Dificultad para respirar",
+        "Sibilancias",
+        "Fiebre leve",
+        "Irritabilidad en bebés y niños pequeños"
+      ]
+    },
+    {
+      "virus": "Adenovirus",
+      "sintomas": [
+        "Fiebre",
+        "Dolor de garganta",
+        "Congestión nasal",
+        "Tos",
+        "Conjuntivitis",
+        "Enrojecimiento de los ojos",
+        "Dolor de cabeza",
+        "Dolores musculares"
+      ]
+    },
+    {
+      "virus": "Coronavirus (incluyendo el SARS-CoV-2)",
+      "sintomas": [
+        "Fiebre",
+        "Tos seca",
+        "Dificultad para respirar",
+        "Fatiga",
+        "Dolor de garganta",
+        "Pérdida del sentido del olfato",
+        "Pérdida del sentido del gusto",
+        "Dolores musculares y corporales"
+      ]
+    }
+  ]
+}
+

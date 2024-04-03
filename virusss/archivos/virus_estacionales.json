@@ -1,0 +1,15 @@
+{
+  "virus_estacionales": [
+    "Influenza A",
+    "Influenza B",
+    "Rinovirus (causa del resfriado común)",
+    "Virus respiratorio sincitial (VRS)",
+    "Adenovirus",
+    "Coronavirus (incluyendo el SARS-CoV-2, causante de la COVID-19)",
+    "Parainfluenza",
+    "Metapneumovirus humano",
+    "Virus de la gripe aviar (H5N1)",
+    "Virus de la gripe porcina (H1N1)"
+  ]
+}
+
